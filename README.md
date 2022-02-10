@@ -5,4 +5,4 @@ MCNameBot is a fast discord bot that is used to check the availability of a Mine
 If theres any issues with the bot please report them to my discord server: https://discord.gg/A2YD6DK472 (you may also add suggestions)
 
 ## Pictures
-![https://imgur.com/a/oqs4Pic]
+![Example](https://imgur.com/a/oqs4Pic)
